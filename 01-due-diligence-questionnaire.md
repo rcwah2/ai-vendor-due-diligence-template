@@ -171,7 +171,7 @@
 
 ## Section 7: Agentic AI Controls
 
-*Framework references: NIST AI 100-4, NIST AI 100-5, CSA Agentic AI Governance Profile, OWASP Top 10 for Agentic Applications, NIST CAISI AI Agent Standards Initiative*
+*Framework references: CSA Agentic AI Governance Profile, OWASP Top 10 for Agentic Applications, NIST CAISI AI Agent Standards Initiative*
 
 *Agentic AI introduces risks that traditional AI vendor assessment does not cover. Agents can take actions autonomously — not just generate output. They hold credentials, access external systems, and can cause real-world impact. This section assesses whether the vendor has appropriate controls for these unique risks.*
 

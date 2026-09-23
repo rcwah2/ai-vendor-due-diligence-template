@@ -54,8 +54,6 @@ Source: [NIST AIRC Crosswalks](https://airc.nist.gov/airmf-resources/crosswalks/
 
 | Standard | Publisher | Description | URL |
 |---|---|---|---|
-| NIST AI 100-4 | NIST | Reducing Risks of AI in Agentic Systems. Addresses autonomous goal pursuit, tool misuse, multi-agent coordination failures, and cascading failures. | [cltc.berkeley.edu](https://cltc.berkeley.edu/publication/agentic-ai-risk-profile/) |
-| NIST AI 100-5 | NIST | Agentic AI guidance. Covers multi-step reasoning failures, unintended goal pursuit, tool-use risks, and challenges in maintaining human control. | [aisecurityandsafety.org](https://aisecurityandsafety.org/en/frameworks/nist-ai-100-5-agentic/) |
 | CSA Agentic AI Governance Profile | Cloud Security Alliance | Extends NIST AI RMF with four capabilities: autonomy tier classification, tool-use risk modeling, runtime behavioral metrics, delegation chain monitoring. | [labs.cloudsecurityalliance.org](https://labs.cloudsecurityalliance.org/agentic/agentic-nist-ai-rmf-profile-v1/) |
 | OWASP Top 10 for Agentic Applications | OWASP | Security risks specific to agentic AI: goal hijack, tool misuse, privilege abuse, agent access control violations, cascading failures. | [aivss.owasp.org](https://aivss.owasp.org/) |
 | NIST CAISI AI Agent Standards Initiative | NIST | Launched February 2026. First U.S. government program dedicated to security and interoperability standards for agentic AI systems. | [labs.cloudsecurityalliance.org](https://labs.cloudsecurityalliance.org/research/csa-research-note-nist-ai-agent-standards-initiative-2026040/) |
