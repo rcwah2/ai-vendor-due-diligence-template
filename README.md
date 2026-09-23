@@ -42,7 +42,7 @@ The questionnaire covers seven domains:
 | AI governance | NIST AI RMF 1.0, ISO/IEC 42001:2023, EU AI Act |
 | Cybersecurity & supply chain | NIST SP 800-161r1, NIST SP 1326, ISO/IEC 27001, CSA |
 | Data privacy | GDPR, CCPA/CPRA, HIPAA |
-| Incident response & forensics | NIST SP 800-61r2, NIST SP 800-86, NIST IR 8387, ISO/IEC 27037, 27042, 27043, ISO 42001 Annex A.8.4, CoSAI AI Incident Response Framework |
+| Incident response & forensics | NIST SP 800-61r3, NIST SP 800-86, NIST IR 8387, ISO/IEC 27037, 27042, 27043, ISO 42001 Annex A.8.4, CoSAI AI Incident Response Framework |
 | Agentic AI | CSA Agentic AI Governance Profile, OWASP Top 10 for Agentic Applications, NIST CAISI AI Agent Standards Initiative |
 | Third-party relationships | ISO 42001 Annex A.10, NIST SP 1326 |
 

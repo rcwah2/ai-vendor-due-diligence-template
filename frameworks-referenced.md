@@ -41,7 +41,7 @@ Source: [NIST AIRC Crosswalks](https://airc.nist.gov/airmf-resources/crosswalks/
 
 | Standard | Publisher | Description | URL |
 |---|---|---|---|
-| NIST SP 800-61 Rev. 2 | NIST | Computer Security Incident Handling Guide. Four-phase lifecycle: preparation, detection/analysis, containment/eradication/recovery, post-incident activity. Requires chain of custody records. | [nist.gov](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf) |
+| NIST SP 800-61 Rev. 3 | NIST | Incident Response Recommendations and Considerations for Cybersecurity Risk Management: A CSF 2.0 Community Profile. Integrates incident response into cybersecurity risk management using the CSF 2.0 Functions (Govern, Identify, Protect, Detect, Respond, Recover). Supersedes Rev. 2 (2012). | [csrc.nist.gov](https://csrc.nist.gov/pubs/sp/800/61/r3/final) |
 | NIST SP 800-86 | NIST | Guide to Integrating Forensic Techniques into Incident Response. Four-phase forensic process: collection, examination, analysis, reporting. | [csrc.nist.gov](https://csrc.nist.gov/pubs/sp/800/86/final) |
 | NIST IR 8387 | NIST | Digital Evidence Preservation: Considerations for Evidence Handlers. Updates definitions to include AI systems and cloud service metadata. | [nist.gov](https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8387.pdf) |
 | ISO/IEC 27037:2012 | ISO/IEC | Guidelines for identification, collection, acquisition, and preservation of digital evidence. | [iso.org](https://www.iso.org/standard/44407.html) |
@@ -55,7 +55,7 @@ Source: [NIST AIRC Crosswalks](https://airc.nist.gov/airmf-resources/crosswalks/
 | Standard | Publisher | Description | URL |
 |---|---|---|---|
 | CSA Agentic AI Governance Profile | Cloud Security Alliance | Extends NIST AI RMF with four capabilities: autonomy tier classification, tool-use risk modeling, runtime behavioral metrics, delegation chain monitoring. | [labs.cloudsecurityalliance.org](https://labs.cloudsecurityalliance.org/agentic/agentic-nist-ai-rmf-profile-v1/) |
-| OWASP Top 10 for Agentic Applications | OWASP | Security risks specific to agentic AI: goal hijack, tool misuse, privilege abuse, agent access control violations, cascading failures. | [aivss.owasp.org](https://aivss.owasp.org/) |
+| OWASP Top 10 for Agentic Applications | OWASP | Security risks specific to agentic AI: goal hijack, tool misuse, privilege abuse, agent access control violations, cascading failures. | [genai.owasp.org](https://genai.owasp.org/resource/owasp-top-10-for-agentic-applications-for-2026/) |
 | NIST CAISI AI Agent Standards Initiative | NIST | Launched February 2026. First U.S. government program dedicated to security and interoperability standards for agentic AI systems. | [labs.cloudsecurityalliance.org](https://labs.cloudsecurityalliance.org/research/csa-research-note-nist-ai-agent-standards-initiative-2026040/) |
 
 ## Vendor Financial Viability

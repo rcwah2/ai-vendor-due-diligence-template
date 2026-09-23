@@ -105,13 +105,13 @@
 
 ## Section 6: Incident Response & Forensics
 
-*Framework references: NIST SP 800-61r2, NIST SP 800-86, NIST IR 8387, ISO/IEC 27037:2012, ISO/IEC 27042:2015, ISO/IEC 27043:2015, ISO 42001 Annex A.8.4, CoSAI AI Incident Response Framework V1*
+*Framework references: NIST SP 800-61r3, NIST SP 800-86, NIST IR 8387, ISO/IEC 27037:2012, ISO/IEC 27042:2015, ISO/IEC 27043:2015, ISO 42001 Annex A.8.4, CoSAI AI Incident Response Framework V1*
 
 ### 6.1 Incident Response Process
 
 | # | Question | Vendor Response | Evidence Provided |
 |---|---|---|---|
-| 6.1.1 | Do you have a documented incident response plan aligned to NIST SP 800-61r2 (preparation, detection/analysis, containment/eradication/recovery, post-incident activity)? | ☐ Yes ☐ No ☐ Partial | |
+| 6.1.1 | Do you have a documented incident response plan aligned to NIST SP 800-61r3 and the CSF 2.0 Functions (Govern, Identify, Protect, Detect, Respond, Recover)? | ☐ Yes ☐ No ☐ Partial | |
 | 6.1.2 | What incident severity classification levels do you use, and what are the notification timelines for each? | _______________ | |
 | 6.1.3 | What is your historical incident rate for AI-related failures (e.g., model drift, biased outputs, hallucination, security breach)? | _______________ | |
 | 6.1.4 | Can you provide a sample incident notification template? | ☐ Yes ☐ No | |
@@ -123,7 +123,7 @@
 | # | Question | Vendor Response | Evidence Provided |
 |---|---|---|---|
 | 6.2.1 | Do your forensic procedures align to NIST SP 800-86 (collection, examination, analysis, reporting) and ISO/IEC 27037 (identification, collection, acquisition, preservation of digital evidence)? | ☐ Yes ☐ No ☐ Partial | |
-| 6.2.2 | Do you maintain chain of custody records for all evidence, documenting who handled it, when, where, and what actions were performed (per NIST SP 800-61r2 Section 3.3.2)? | ☐ Yes ☐ No ☐ Partial | |
+| 6.2.2 | Do you maintain chain of custody records for all evidence, documenting who handled it, when, where, and what actions were performed (per NIST SP 800-86 and NIST IR 8387)? | ☐ Yes ☐ No ☐ Partial | |
 | 6.2.3 | What evidence retention policy do you follow, and how long are incident-related logs and artifacts retained? | _______________ | |
 | 6.2.4 | Do you align to NIST IR 8387 definitions for digital evidence, including AI system artifacts and cloud service metadata? | ☐ Yes ☐ No ☐ Partial | |
 | 6.2.5 | Do you have procedures for evidence analysis and interpretation aligned to ISO/IEC 27042:2015 (continuity, validity, reproducibility, repeatability)? | ☐ Yes ☐ No ☐ Partial | |
