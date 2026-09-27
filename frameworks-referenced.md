@@ -8,7 +8,7 @@ This document lists all standards, frameworks, and guidelines referenced in the 
 |---|---|---|---|
 | NIST AI RMF 1.0 | NIST | Voluntary framework for managing risks throughout the AI lifecycle. Organized around four functions: Govern, Map, Measure, Manage. | [nist.gov](https://www.nist.gov/itl/ai-risk-management-framework) |
 | ISO/IEC 42001:2023 | ISO/IEC | First international standard for AI Management Systems (AIMS). Certifiable. Covers organizational governance of AI across the lifecycle. | [iso.org](https://www.iso.org/standard/81230.html) |
-| EU AI Act | European Union | Legally binding regulation classifying AI systems by risk tier (minimal, limited, high, unacceptable). Requires conformity assessment for high-risk systems. | [eur-lex.europa.eu](https://eur-lex.europa.eu/eli/reg/2024/1689/oj) |
+| EU AI Act | European Union | Legally binding regulation classifying AI systems by risk tier (minimal, limited, high, unacceptable). Requires conformity assessment for high-risk systems. Amended by Regulation (EU) 2026/1744 (Digital Omnibus on AI), in force 27 July 2026: high-risk obligations apply from 2 December 2027 for stand-alone (Annex III) systems and 2 August 2028 for systems embedded in regulated products (Annex I); Article 50 transparency obligations apply from 2 August 2026. | [eur-lex.europa.eu](https://eur-lex.europa.eu/eli/reg/2024/1689/oj); amendment: [European Parliament Legislative Train](https://www.europarl.europa.eu/legislative-train/package-digital-package/file-digital-omnibus-on-ai) |
 
 ### NIST AI RMF to ISO 42001 Crosswalk
 
@@ -34,7 +34,7 @@ Source: [NIST AIRC Crosswalks](https://airc.nist.gov/airmf-resources/crosswalks/
 | Standard | Publisher | Description | URL |
 |---|---|---|---|
 | GDPR | European Union | General Data Protection Regulation. Governs processing of personal data of EU residents. | [gdpr.eu](https://gdpr.eu/) |
-| CCPA/CPRA | California | California Consumer Privacy Act / California Privacy Rights Act. Governs processing of personal data of California residents. | [oag.ca.gov](https://oag.ca.gov/privacy/ccpa) |
+| CCPA/CPRA | California | California Consumer Privacy Act / California Privacy Rights Act. Governs processing of personal data of California residents. California Privacy Protection Agency regulations on automated decisionmaking technology (ADMT), risk assessments, and cybersecurity audits took effect 1 January 2026; businesses using ADMT for significant decisions must comply with the ADMT requirements from 1 January 2027, with other deadlines phased through 2030. | [oag.ca.gov](https://oag.ca.gov/privacy/ccpa); regulations: [cppa.ca.gov](https://cppa.ca.gov/announcements/2025/20250923.html) |
 | HIPAA | U.S. HHS | Health Insurance Portability and Accountability Act. Governs protected health information (PHI). | [hhs.gov](https://www.hhs.gov/hipaa/index.html) |
 
 ## Incident Response & Forensics
@@ -44,7 +44,7 @@ Source: [NIST AIRC Crosswalks](https://airc.nist.gov/airmf-resources/crosswalks/
 | NIST SP 800-61 Rev. 3 | NIST | Incident Response Recommendations and Considerations for Cybersecurity Risk Management: A CSF 2.0 Community Profile. Integrates incident response into cybersecurity risk management using the CSF 2.0 Functions (Govern, Identify, Protect, Detect, Respond, Recover). Supersedes Rev. 2 (2012). | [csrc.nist.gov](https://csrc.nist.gov/pubs/sp/800/61/r3/final) |
 | NIST SP 800-86 | NIST | Guide to Integrating Forensic Techniques into Incident Response. Four-phase forensic process: collection, examination, analysis, reporting. | [csrc.nist.gov](https://csrc.nist.gov/pubs/sp/800/86/final) |
 | NIST IR 8387 | NIST | Digital Evidence Preservation: Considerations for Evidence Handlers. Updates definitions to include AI systems and cloud service metadata. | [nist.gov](https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8387.pdf) |
-| ISO/IEC 27037:2012 | ISO/IEC | Guidelines for identification, collection, acquisition, and preservation of digital evidence. | [iso.org](https://www.iso.org/standard/44407.html) |
+| ISO/IEC 27037:2012 | ISO/IEC | Guidelines for identification, collection, acquisition, and preservation of digital evidence. | [iso.org](https://www.iso.org/standard/44381.html) |
 | ISO/IEC 27042:2015 | ISO/IEC | Guidelines for the analysis and interpretation of digital evidence. Addresses continuity, validity, reproducibility, repeatability. | [standards.iteh.ai](https://standards.iteh.ai/catalog/standards/iso/10c47499-2a7b-40ae-bf3e-795909b33f27/iso-iec-27042-2015) |
 | ISO/IEC 27043:2015 | ISO/IEC | Incident investigation principles and processes. | [iso.org](https://www.iso.org/standard/44407.html) |
 | ISO 42001 Annex A.8.4 | ISO/IEC | AI incident communication plan requirements. Requires documented plan defining what constitutes an AI incident, notification timelines, and reporting details. | [watchdogsecurity.io](https://watchdogsecurity.io/iso-42001/communication-of-incidents) |
@@ -67,4 +67,4 @@ Source: [NIST AIRC Crosswalks](https://airc.nist.gov/airmf-resources/crosswalks/
 
 ---
 
-*All framework references are based on publicly available standards as of August 2026. Verify currency before relying on specific clause numbers or requirements.*
+*All framework references are based on publicly available standards as of September 2026. Verify currency before relying on specific clause numbers or requirements.*
