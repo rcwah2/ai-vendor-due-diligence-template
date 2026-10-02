@@ -24,7 +24,7 @@ Source: [NIST AIRC Crosswalks](https://airc.nist.gov/airmf-resources/crosswalks/
 
 | Standard | Publisher | Description | URL |
 |---|---|---|---|
-| NIST SP 800-161 Rev. 1 | NIST | Cybersecurity Supply Chain Risk Management (C-SCRM) Practices for Systems and Organizations. Includes supplier assessments and reviews. | [csrc.nist.gov](https://csrc.nist.gov/pubs/sp/800/161/r1/final) |
+| NIST SP 800-161 Rev. 1 (Update 1, November 2024) | NIST | Cybersecurity Supply Chain Risk Management (C-SCRM) Practices for Systems and Organizations. Includes supplier assessments and reviews. | [csrc.nist.gov](https://csrc.nist.gov/pubs/sp/800/161/r1/upd1/final) |
 | NIST SP 1326 | NIST | Cybersecurity Supply Chain Risk Management: Due Diligence Assessment Quick-Start Guide. Five assessment components: foreign ownership/control/influence, provenance, resilience, foundational cyber practices, supply-chain tiers. | [csrc.nist.gov](https://csrc.nist.gov/pubs/sp/1326/final) |
 | ISO/IEC 27001 | ISO/IEC | Information security management system (ISMS) standard. Certifiable. | [iso.org](https://www.iso.org/standard/27001) |
 | CSA Framework | Cloud Security Alliance | Cloud security controls and best practices. Includes AI-specific guidance. | [cloudsecurityalliance.org](https://cloudsecurityalliance.org/) |
@@ -67,4 +67,4 @@ Source: [NIST AIRC Crosswalks](https://airc.nist.gov/airmf-resources/crosswalks/
 
 ---
 
-*All framework references are based on publicly available standards as of September 2026. Verify currency before relying on specific clause numbers or requirements.*
+*All framework references are based on publicly available standards as of October 2026. Verify currency before relying on specific clause numbers or requirements.*
